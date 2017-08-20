@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/global.properties</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/util/HibernateUtil.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Users.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/ControllerNhanVien.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/model/userDAO.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Users.hbm.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/ControllerDangNhap.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Records.hbm.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/StaffRecordController.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/ControllerTaiKhoan.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Departs.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/ControllerPhongBan.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/model/ModelNhanVien.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/hibernate.cfg.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/bean/NhanVien.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/model/ModelIndex.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Departs.hbm.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/model/ModelAccount.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/Staffs.hbm.xml</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/ControllerMenu.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/controller/StaffController.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/model/ModelPhongBan.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/entity/ano/Users.java</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/global_vi.properties</file>
+            <file>file:/F:/Java%205/PS04444_ASM_FINAL/src/java/hibernate.reveng.xml</file>
+        </group>
+    </open-files>
+</project-private>
